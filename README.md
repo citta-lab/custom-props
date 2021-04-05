@@ -4,6 +4,9 @@
 ```
 yarn start
 ```
+<img width="581" alt="Screen Shot 2021-04-04 at 10 54 02 PM" src="https://user-images.githubusercontent.com/16902666/113532204-cbb2ea80-9598-11eb-9b61-ac8695da380f.png">
+
+
 ## Core Validators 
 ### Email:
 ```js
